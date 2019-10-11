@@ -1,0 +1,22 @@
+.todoItem {
+  margin-bottom: 24px;
+  padding-left: 32px;
+}
+
+.todoTitle {
+  display: inline-block;
+  width: 150px;
+  margin-left: 8px;
+}
+
+.is-completed {
+  text-decoration: line-through;
+}
+
+.delBtn {
+  border: none;
+  padding: 5px 9px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 24px;
+}
