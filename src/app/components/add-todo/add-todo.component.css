@@ -1,0 +1,14 @@
+.addTodosForm {
+  margin-bottom: 24px;
+  padding-left: 24px;
+}
+
+.input {
+  padding: 4px;
+  margin-right: 12px;
+}
+
+.submitBtn {
+  border: none;
+  padding: 6px 24px;
+}

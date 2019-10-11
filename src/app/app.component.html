@@ -1,6 +1,7 @@
 <div class="app">
+  <app-header></app-header>
   <!-- name | uppercase -  pipe used here https://angular.io/api?type=pipe-->
-  <header>Hello, {{ name | uppercase }}! This is {{ title }}</header>
+  <div>Hello, {{ name | uppercase }}! This is {{ title }}</div>
   <body>
     <!-- because it called such at todos.component selector: "app-todos" -->
     <app-todos></app-todos>
